@@ -28,7 +28,7 @@ The platform also supports real-time updates, notifications, and a personalized 
 - CSS
 - Javascript
 
-**Backend** *(if applicable)*
+**Backend**
 - Node.js
 - Express
 - MySQL
